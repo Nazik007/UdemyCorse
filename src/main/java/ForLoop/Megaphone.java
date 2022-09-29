@@ -1,4 +1,4 @@
-package Loops.workbooks;
+package ForLoop;
 
 public class Megaphone {
     //Task 1: make a for loop that prints this 10 times:

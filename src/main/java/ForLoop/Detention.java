@@ -1,4 +1,4 @@
-package Loops.workbooks;
+package ForLoop;
 
 import java.util.Scanner;
 
