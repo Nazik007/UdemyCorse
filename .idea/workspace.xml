@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="While loop taks done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/BlackJack/Blackjack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/Pockerito/Pokerito.java" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Written games with if and loops">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArraysAndLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Exams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ExamsAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Grocer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/GrocerAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/HighScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/PizzaDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/RingAnnouncer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/UpdateArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +62,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Blackjack">
-    <configuration name="Blackjack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.BlackJack.Blackjack" />
+  <component name="RunManager" selected="Application.PizzaDelivery">
+    <configuration name="PizzaDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.PizzaDelivery" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.BlackJack.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.Doubles" />
+    <configuration name="Receipt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Receipt" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaRolls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.JavaRolls.JavaRolls" />
+    <configuration name="RingAnnouncer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RingAnnouncer" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.JavaRolls.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pokerito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Pockerito.Pokerito" />
+    <configuration name="Tax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Tax" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.Pockerito.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.SignIn" />
+    <configuration name="UpdateArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.UpdateArrays" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Blackjack" />
-        <item itemvalue="Application.Pokerito" />
-        <item itemvalue="Application.JavaRolls" />
-        <item itemvalue="Application.Doubles" />
-        <item itemvalue="Application.SignIn" />
+        <item itemvalue="Application.PizzaDelivery" />
+        <item itemvalue="Application.Tax" />
+        <item itemvalue="Application.UpdateArrays" />
+        <item itemvalue="Application.Receipt" />
+        <item itemvalue="Application.RingAnnouncer" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664476002454</updated>
-      <workItem from="1664476004000" duration="11746000" />
+      <workItem from="1664476004000" duration="18801000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -152,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664529199090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Written games with if and loops">
+      <created>1664557831419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664557831419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Written all the for loop tasks" />
     <MESSAGE value="While loop taks done" />
-    <option name="LAST_COMMIT_MESSAGE" value="While loop taks done" />
+    <MESSAGE value="Written games with if and loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Written games with if and loops" />
   </component>
 </project>
