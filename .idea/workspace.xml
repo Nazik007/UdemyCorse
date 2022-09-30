@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/CounterTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/CountingTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Written all the for loop tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/JavaRolls/JavaRolls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/WhileLoop/Doubles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/WhileLoop/Guess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops/WhileLoop/SignIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Loops/Detention.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/Detention.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Loops/Megaphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/Megaphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForLoop/CounterTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/ForLoop/CounterTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForLoop/CountingTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/ForLoop/CountingTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForLoop/Detention.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/ForLoop/Detention.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForLoop/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/ForLoop/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForLoop/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/ForLoop/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForLoop/Megaphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loops/ForLoop/Megaphone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,52 +55,18 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FizzBuzz">
-    <configuration name="CounterTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.CounterTool" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaRolls">
+    <configuration name="Doubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.Doubles" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountingTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.CountingTool" />
-      <module name="UdemyCorse.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Detention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.workbooks.Detention" />
-      <module name="UdemyCorse.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.workbooks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.EvenOrOdd" />
-      <module name="UdemyCorse.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +87,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Guess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.Guess" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaRolls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.JavaRolls.JavaRolls" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.JavaRolls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.SignIn" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaRolls" />
+        <item itemvalue="Application.Doubles" />
+        <item itemvalue="Application.SignIn" />
+        <item itemvalue="Application.Guess" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.EvenOrOdd" />
-        <item itemvalue="Application.CounterTool" />
-        <item itemvalue="Application.CountingTool" />
-        <item itemvalue="Application.Detention" />
       </list>
     </recent_temporary>
   </component>
@@ -136,8 +144,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664476002454</updated>
-      <workItem from="1664476004000" duration="2415000" />
+      <workItem from="1664476004000" duration="5542000" />
     </task>
+    <task id="LOCAL-00001" summary="Written all the for loop tasks">
+      <created>1664481690154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664481690154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Written all the for loop tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Written all the for loop tasks" />
   </component>
 </project>

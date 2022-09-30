@@ -1,4 +1,4 @@
-package ForLoop;
+package Loops.ForLoop;
 
 public class FizzBuzz {
     // Task 1 – Make a for loop that counts from 0 to 18.
