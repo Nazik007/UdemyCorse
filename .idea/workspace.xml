@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Written games with if and loops">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArraysAndLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Exams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ExamsAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Grocer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/GrocerAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/HighScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/PizzaDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Receipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/RingAnnouncer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/UpdateArrays.java" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Created the Arrays classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ReferenceTrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,21 +39,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PizzaDelivery">
+  <component name="RunManager" selected="Application.LotteryTickets">
+    <configuration name="LotteryTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LotteryTickets" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PizzaDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.PizzaDelivery" />
       <module name="UdemyCorse.main" />
@@ -76,21 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Receipt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Receipt" />
-      <module name="UdemyCorse.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RingAnnouncer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RingAnnouncer" />
+    <configuration name="ReferenceTrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ReferenceTrap" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.UpdateArrays" />
+    <configuration name="Weather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Weather" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LotteryTickets" />
+        <item itemvalue="Application.Weather" />
+        <item itemvalue="Application.ReferenceTrap" />
         <item itemvalue="Application.PizzaDelivery" />
         <item itemvalue="Application.Tax" />
-        <item itemvalue="Application.UpdateArrays" />
-        <item itemvalue="Application.Receipt" />
-        <item itemvalue="Application.RingAnnouncer" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +137,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664476002454</updated>
-      <workItem from="1664476004000" duration="18801000" />
+      <workItem from="1664476004000" duration="19415000" />
+      <workItem from="1664613724621" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -169,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664557831419</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created the Arrays classes">
+      <created>1664569734516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664569734516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +189,7 @@
     <MESSAGE value="Written all the for loop tasks" />
     <MESSAGE value="While loop taks done" />
     <MESSAGE value="Written games with if and loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Written games with if and loops" />
+    <MESSAGE value="Created the Arrays classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the Arrays classes" />
   </component>
 </project>
