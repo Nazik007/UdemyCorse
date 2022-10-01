@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Created the Arrays classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ReferenceTrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Weather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Wrote the next arrays tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Javapedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Prices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/TDArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/TDArraysAgain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +55,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LotteryTickets">
-    <configuration name="LotteryTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LotteryTickets" />
+  <component name="RunManager" selected="Application.Javapedia">
+    <configuration name="Javapedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Javapedia" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.PizzaDelivery" />
+    <configuration name="Prices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Prices" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceTrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReferenceTrap" />
+    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RandomNumbers" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Tax" />
+    <configuration name="TDArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TDArrays" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Weather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Weather" />
+    <configuration name="TDArraysAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TDArraysAgain" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LotteryTickets" />
-        <item itemvalue="Application.Weather" />
-        <item itemvalue="Application.ReferenceTrap" />
-        <item itemvalue="Application.PizzaDelivery" />
-        <item itemvalue="Application.Tax" />
+        <item itemvalue="Application.Javapedia" />
+        <item itemvalue="Application.RandomNumbers" />
+        <item itemvalue="Application.TDArraysAgain" />
+        <item itemvalue="Application.Prices" />
+        <item itemvalue="Application.TDArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664476002454</updated>
       <workItem from="1664476004000" duration="19415000" />
-      <workItem from="1664613724621" duration="1541000" />
+      <workItem from="1664613724621" duration="7184000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -168,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664569734516</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Wrote the next arrays tasks">
+      <created>1664615700834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664615700834</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +199,7 @@
     <MESSAGE value="While loop taks done" />
     <MESSAGE value="Written games with if and loops" />
     <MESSAGE value="Created the Arrays classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the Arrays classes" />
+    <MESSAGE value="Wrote the next arrays tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote the next arrays tasks" />
   </component>
 </project>
