@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Written the games">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/AirlineReservation/Airline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/AirlineReservation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/AirlineReservation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/Car/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/Dealership/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/Dealership/Dealership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Objects/Dealership/Main.java" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Dealership app is created, tested and uploaded">
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Objects.Dealership.Main">
+  <component name="RunManager" selected="Application.VendingMachine.Main">
     <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Hangman" />
       <module name="UdemyCorse.main" />
@@ -111,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TicTacToe" />
+    <configuration name="VendingMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VendingMachine.Main" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="VendingMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VendingMachine.Main" />
         <item itemvalue="Application.Objects.Dealership.Main" />
         <item itemvalue="Application.Objects.AirlineReservation.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Hangman" />
-        <item itemvalue="Application.TicTacToe" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +139,7 @@
       <updated>1664476002454</updated>
       <workItem from="1664476004000" duration="19415000" />
       <workItem from="1664613724621" duration="11814000" />
-      <workItem from="1664701594148" duration="13132000" />
+      <workItem from="1664701594148" duration="15365000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -195,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664651301243</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Dealership app is created, tested and uploaded">
+      <created>1664742962890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664742962890</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +222,7 @@
     <MESSAGE value="Wrote the next arrays tasks" />
     <MESSAGE value="2D Arryas Tasks Completed" />
     <MESSAGE value="Written the games" />
-    <option name="LAST_COMMIT_MESSAGE" value="Written the games" />
+    <MESSAGE value="Dealership app is created, tested and uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dealership app is created, tested and uploaded" />
   </component>
 </project>
