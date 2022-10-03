@@ -1,8 +1,11 @@
 package VendingMachine;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
 
+        Scanner scan = new Scanner(System.in);
 
         System.out.println("\t************************************************");
         System.out.println("\t             WELCOME TO JAVA DRINKS!            ");
@@ -15,6 +18,24 @@ public class Main {
        };
 
        Machine machine = new Machine(items);
-       System.out.println(machine.getItem(2,2));
+        System.out.println(machine);
+
+        while (true) {
+            System.out.println("Pick a row: ");
+            int row = scan.nextInt();
+            System.out.println("Pick a spot in the row: ");
+            int spot = scan.nextInt();
+
+           boolean dispensed = machine.dispense(row, spot);
+           if (dispensed == true){
+               System.out.println("\nEnjoy your drink! Press 1 to purchase another: ");
+           }else {
+               System.out.println("\nSorry, we're out of this drink. Press 1 to purchase another: ");
+           }
+           if (scan.nextInt() != 1){
+               break;
+           }
+            System.out.println("\n" + machine);
+        }
     }
 }
