@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Started the work on the Vending Machine App">
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Finished the Vending Machine App">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/CheckedExeptions/Greetings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/CheckedExeptions/ParseURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/CheckedExeptions/ParseURLTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/CheckedExeptions/ReadingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/CheckedExeptions/ReadingFilesTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/UncheckedExeptions/RunTimeExceptionScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/UncheckedExeptions/RuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/UncheckedExeptions/RuntimeExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Greetings.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +59,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VendingMachine.Main">
-    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Hangman" />
+  <component name="RunManager" selected="Application.RunTimeExceptionScanner">
+    <configuration name="ParseURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckedExeptions.ParseURL" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="CheckedExeptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects.Car.Main" />
+    <configuration name="ParseURLTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckedExeptions.ParseURLTwo" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Objects.Car.*" />
+          <option name="PATTERN" value="CheckedExeptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objects.AirlineReservation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects.AirlineReservation.Main" />
+    <configuration name="RunTimeExceptionScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.UncheckedExeptions.RunTimeExceptionScanner" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Objects.AirlineReservation.*" />
+          <option name="PATTERN" value="ExeptionHandling.UncheckedExeptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objects.Dealership.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects.Dealership.Main" />
+    <configuration name="RuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.UncheckedExeptions.RuntimeException" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Objects.Dealership.*" />
+          <option name="PATTERN" value="ExeptionHandling.UncheckedExeptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendingMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VendingMachine.Main" />
+    <configuration name="RuntimeExeption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.UncheckedExeptions.RuntimeExeption" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VendingMachine.*" />
+          <option name="PATTERN" value="ExeptionHandling.UncheckedExeptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VendingMachine.Main" />
-        <item itemvalue="Application.Objects.Dealership.Main" />
-        <item itemvalue="Application.Objects.AirlineReservation.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Hangman" />
+        <item itemvalue="Application.RunTimeExceptionScanner" />
+        <item itemvalue="Application.RuntimeException" />
+        <item itemvalue="Application.RuntimeExeption" />
+        <item itemvalue="Application.ParseURLTwo" />
+        <item itemvalue="Application.ParseURL" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +145,8 @@
       <updated>1664476002454</updated>
       <workItem from="1664476004000" duration="19415000" />
       <workItem from="1664613724621" duration="11814000" />
-      <workItem from="1664701594148" duration="16896000" />
+      <workItem from="1664701594148" duration="18593000" />
+      <workItem from="1665066457094" duration="2284000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -204,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664747133386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finished the Vending Machine App">
+      <created>1664827875271</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664827875271</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +245,7 @@
     <MESSAGE value="Written the games" />
     <MESSAGE value="Dealership app is created, tested and uploaded" />
     <MESSAGE value="Started the work on the Vending Machine App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started the work on the Vending Machine App" />
+    <MESSAGE value="Finished the Vending Machine App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the Vending Machine App" />
   </component>
 </project>
