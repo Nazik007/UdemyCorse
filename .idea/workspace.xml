@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Started work on the exceptions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/Dealership/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/Dealership/Dealership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/Dealership/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/Models/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/Models/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/Models/Store.java" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Continue with the course tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayList/ResizableArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/Models/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/Models/ContactManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/contacts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/VendingMachine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/VendingMachine/Models/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/VendingMachine/Models/Machine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExeptionHandling/UncheckedExeptions/RunTimeExceptionScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/UncheckedExeptions/RunTimeExceptionScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +58,39 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExeptionHandling.Dealership.Main">
+  <component name="RunManager" selected="Application.ContactsWorkbook.Main">
+    <configuration name="ContactsWorkbook.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContactsWorkbook.Main" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContactsWorkbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExeptionHandling.Dealership.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExeptionHandling.Dealership.Main" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExeptionHandling.Dealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExeptionHandling.VendingMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.VendingMachine.Main" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExeptionHandling.VendingMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,38 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTimeExceptionScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.UncheckedExeptions.RunTimeExceptionScanner" />
+    <configuration name="ResizableArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.ResizableArrays" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExeptionHandling.UncheckedExeptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.UncheckedExeptions.RuntimeException" />
-      <module name="UdemyCorse.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExeptionHandling.UncheckedExeptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RuntimeExeption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.UncheckedExeptions.RuntimeExeption" />
-      <module name="UdemyCorse.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExeptionHandling.UncheckedExeptions.*" />
+          <option name="PATTERN" value="ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContactsWorkbook.Main" />
+        <item itemvalue="Application.ResizableArrays" />
+        <item itemvalue="Application.ExeptionHandling.VendingMachine.Main" />
         <item itemvalue="Application.ExeptionHandling.Dealership.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RunTimeExceptionScanner" />
-        <item itemvalue="Application.RuntimeException" />
-        <item itemvalue="Application.RuntimeExeption" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,7 @@
       <workItem from="1664613724621" duration="11814000" />
       <workItem from="1664701594148" duration="18593000" />
       <workItem from="1665066457094" duration="3104000" />
-      <workItem from="1665138034898" duration="4803000" />
+      <workItem from="1665138034898" duration="14574000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -224,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665070847938</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Continue with the course tasks">
+      <created>1665337048342</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665337048342</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +261,7 @@
     <MESSAGE value="Started the work on the Vending Machine App" />
     <MESSAGE value="Finished the Vending Machine App" />
     <MESSAGE value="Started work on the exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started work on the exceptions" />
+    <MESSAGE value="Continue with the course tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continue with the course tasks" />
   </component>
 </project>
