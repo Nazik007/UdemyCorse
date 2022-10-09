@@ -11,6 +11,7 @@ public class RunTimeExceptionScanner {
                 System.out.println(scan.hasNextInt());
                 break;
             } else {
+                System.out.println("It's not a number");
                 scan.nextLine();
             }
         }
