@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Continue with the course tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayList/ResizableArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/Models/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/Models/ContactManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContactsWorkbook/contacts.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/VendingMachine/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/VendingMachine/Models/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExeptionHandling/VendingMachine/Models/Machine.java" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Completed the Contacts WorkBook">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Models/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Models/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/movies.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContactsWorkbook.Main">
+  <component name="RunManager" selected="Application.MovieStore.Main">
     <configuration name="ContactsWorkbook.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContactsWorkbook.Main" />
       <module name="UdemyCorse.main" />
@@ -98,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.Models.Main" />
+    <configuration name="MovieStore.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieStore.Main" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExeptionHandling.Models.*" />
+          <option name="PATTERN" value="MovieStore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieStore.Main" />
         <item itemvalue="Application.ContactsWorkbook.Main" />
         <item itemvalue="Application.ResizableArrays" />
         <item itemvalue="Application.ExeptionHandling.VendingMachine.Main" />
         <item itemvalue="Application.ExeptionHandling.Dealership.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +142,8 @@
       <workItem from="1664613724621" duration="11814000" />
       <workItem from="1664701594148" duration="18593000" />
       <workItem from="1665066457094" duration="3104000" />
-      <workItem from="1665138034898" duration="14574000" />
+      <workItem from="1665138034898" duration="15384000" />
+      <workItem from="1665398646343" duration="6270000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -232,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665337048342</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Completed the Contacts WorkBook">
+      <created>1665349315535</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665349315535</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +266,7 @@
     <MESSAGE value="Finished the Vending Machine App" />
     <MESSAGE value="Started work on the exceptions" />
     <MESSAGE value="Continue with the course tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Continue with the course tasks" />
+    <MESSAGE value="Completed the Contacts WorkBook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Contacts WorkBook" />
   </component>
 </project>
