@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Completed the Contacts WorkBook">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Models/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Models/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/movies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Completed the Movie App" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +137,7 @@
       <workItem from="1664701594148" duration="18593000" />
       <workItem from="1665066457094" duration="3104000" />
       <workItem from="1665138034898" duration="15384000" />
-      <workItem from="1665398646343" duration="6270000" />
+      <workItem from="1665398646343" duration="6813000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -236,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665349315535</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Completed the Movie App">
+      <created>1665408462341</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665408462341</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +268,7 @@
     <MESSAGE value="Started work on the exceptions" />
     <MESSAGE value="Continue with the course tasks" />
     <MESSAGE value="Completed the Contacts WorkBook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the Contacts WorkBook" />
+    <MESSAGE value="Completed the Movie App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Movie App" />
   </component>
 </project>
