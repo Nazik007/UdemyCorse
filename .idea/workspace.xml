@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Completed the Movie App">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShoppingCart/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShoppingCart/Models/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShoppingCart/Models/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShoppingCart/Models/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShoppingCart/products.txt" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Completed the Contacts WorkBook">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Models/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/Models/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MovieStore/movies.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MovieStore.Main">
     <configuration name="ContactsWorkbook.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContactsWorkbook.Main" />
       <module name="UdemyCorse.main" />
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExeptionHandling.VendingMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.VendingMachine.Main" />
+    <configuration name="ExeptionHandling.Dealership.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.Dealership.Main" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExeptionHandling.VendingMachine.*" />
+          <option name="PATTERN" value="ExeptionHandling.Dealership.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShoppingCart.Main" />
+    <configuration name="ExeptionHandling.VendingMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeptionHandling.VendingMachine.Main" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ShoppingCart.*" />
+          <option name="PATTERN" value="ExeptionHandling.VendingMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovieStore.Main" />
         <item itemvalue="Application.ContactsWorkbook.Main" />
         <item itemvalue="Application.ResizableArrays" />
         <item itemvalue="Application.ExeptionHandling.VendingMachine.Main" />
+        <item itemvalue="Application.ExeptionHandling.Dealership.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -144,8 +143,7 @@
       <workItem from="1664701594148" duration="18593000" />
       <workItem from="1665066457094" duration="3104000" />
       <workItem from="1665138034898" duration="15384000" />
-      <workItem from="1665398646343" duration="6951000" />
-      <workItem from="1665411887451" duration="3829000" />
+      <workItem from="1665398646343" duration="6270000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -238,28 +236,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665349315535</updated>
     </task>
-    <task id="LOCAL-00014" summary="Completed the Movie App">
-      <created>1665408462341</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1665408462341</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Completed the Movie App">
-      <created>1665409017336</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1665409017336</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Completed the Movie App">
-      <created>1665409108749</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1665409108749</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +267,6 @@
     <MESSAGE value="Started work on the exceptions" />
     <MESSAGE value="Continue with the course tasks" />
     <MESSAGE value="Completed the Contacts WorkBook" />
-    <MESSAGE value="Completed the Movie App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the Movie App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Contacts WorkBook" />
   </component>
 </project>
