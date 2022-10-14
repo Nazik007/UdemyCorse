@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Added some class tasks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HashMap/KeyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HashCode/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HashCode/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,9 +83,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KeyValues">
-    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Filter" />
+  <component name="RunManager" selected="Application.HashCode.Main">
+    <configuration name="FilterRwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.FilterRwo" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterRwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.FilterRwo" />
+    <configuration name="HashCode.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashCode.Main" />
       <module name="UdemyCorse.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.*" />
+          <option name="PATTERN" value="HashCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashCode.Main" />
         <item itemvalue="Application.KeyValues" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Map" />
         <item itemvalue="Application.FilterRwo" />
-        <item itemvalue="Application.Filter" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,7 @@
       <workItem from="1665138034898" duration="15384000" />
       <workItem from="1665398646343" duration="6270000" />
       <workItem from="1665685324752" duration="1295000" />
-      <workItem from="1665740566452" duration="376000" />
+      <workItem from="1665740566452" duration="2225000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -287,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665738027797</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added some class tasks">
+      <created>1665741205388</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665741205388</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
