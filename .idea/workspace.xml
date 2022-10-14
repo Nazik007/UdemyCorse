@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/FilterRwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnitTetsting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/checkoutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0ff14f7a-8af5-454b-af69-6e09c07fab89" name="Changes" comment="Added some class tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticVariables/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticVariables/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,22 +68,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Map">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Streams.Filter" />
       <module name="UdemyCorse.main" />
@@ -107,6 +103,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticVariables.Main" />
+      <module name="UdemyCorse.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaticVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,23 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkoutTest.totalIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UdemyCorse.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="checkoutTest" />
-      <option name="METHOD_NAME" value="totalIsValid" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Map" />
         <item itemvalue="Application.FilterRwo" />
         <item itemvalue="Application.Filter" />
         <item itemvalue="JUnit.checkoutTest" />
-        <item itemvalue="JUnit.checkoutTest.totalIsValid" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +169,7 @@
       <workItem from="1665066457094" duration="3104000" />
       <workItem from="1665138034898" duration="15384000" />
       <workItem from="1665398646343" duration="6270000" />
+      <workItem from="1665685324752" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="Written all the for loop tasks">
       <created>1664481690154</created>
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665424449246</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added some class tasks">
+      <created>1665499298098</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665499298098</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +309,8 @@
     <MESSAGE value="Completed the Contacts WorkBook" />
     <MESSAGE value="Another App done" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Added some class tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some class tasks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
